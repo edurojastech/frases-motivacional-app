@@ -1,7 +1,7 @@
 const bodyApp = `
     <div class="container">
       <div class="px-2 mb-4 rounded-3">
-        <div class="container-fluid">
+        <div class="container-fluid pt-2">
           <h1 class="display-5 fw-semibold text-center" style="color: #00A2AA;">Frases bíblicas</h1>
           <hr>
           <div class="card mb-3" style="width: 24rem; margin: auto; max-width: 100%;">

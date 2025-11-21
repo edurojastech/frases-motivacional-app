@@ -8,7 +8,7 @@ const bodyApp = `
             <img src="./jesus.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Frase do dia:</h5>
-              <p class="card-text mb-3" id="frase" style="height: 85px;"></p>
+              <p class="card-text mb-3" id="frase" style="height: 120px;"></p>
               <p class="card-text"><small class="text-body-secondary">Criado: Eduardo Rojas</small></p>
             </div>
             <div class="card-footer d-flex gap-2 justify-content-center">

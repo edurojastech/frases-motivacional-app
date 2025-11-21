@@ -20,3 +20,26 @@ const frasesMotivacionais = [
   "A diferença entre quem conquista e quem só sonha está na capacidade de manter a disciplina quando o motivacional desaparece.",
   "Você não precisa ser o melhor do mundo, só precisa ser melhor do que você era ontem — e isso já te coloca na direção do extraordinário."
 ];
+
+const frasesBiblicas = [
+  "O Senhor é o meu pastor; de nada terei falta. (Salmos 23:1)",
+  "Tudo posso naquele que me fortalece. (Filipenses 4:13)",
+  "Sejam fortes e corajosos. Não tenham medo nem fiquem desanimados, pois o Senhor, o seu Deus, estará com você por onde você andar. (Josué 1:9)",
+  "Porque sou eu que conheço os planos que tenho para vocês, diz o Senhor, planos de fazê-los prosperar e não de causar dano, planos de dar-lhes esperança e um futuro. (Jeremias 29:11)",
+  "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. (Salmos 46:1)",
+  "Mas os que esperam no Senhor renovarão as suas forças. Voarão alto como águias; correrão e não ficarão exaustos, andarão e não se cansarão. (Isaías 40:31)",
+  "Entregue o seu caminho ao Senhor; confie nele, e ele agirá. (Salmos 37:5)",
+  "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito. (Romanos 8:28)",
+  "Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar. (Josué 1:9)",
+  "O Senhor é a minha luz e a minha salvação; de quem terei temor? O Senhor é o meu forte refúgio; de quem terei medo? (Salmos 27:1)",
+  "Venham a mim, todos os que estão cansados e sobrecarregados, e eu darei descanso a vocês. (Mateus 11:28)",
+  "Por isso não tema, pois estou com você; não tenha medo, pois sou o seu Deus. Eu o fortalecerei e o ajudarei; eu o segurarei com a minha mão direita vitoriosa. (Isaías 41:10)",
+  "Mil cairão ao teu lado, e dez mil à tua direita, mas não chegará a ti. (Salmos 91:7)",
+  "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês. (1 Pedro 5:7)",
+  "Pois Deus não nos deu espírito de covardia, mas de poder, de amor e de equilíbrio. (2 Timóteo 1:7)",
+  "Elevo os olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez o céu e a terra. (Salmos 121:1-2)",
+  "O choro pode durar uma noite, mas a alegria vem pela manhã. (Salmos 30:5)",
+  "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos. (Hebreus 11:1)",
+  "Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente. (Romanos 12:2)",
+  "Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens. (Colossenses 3:23)"
+];

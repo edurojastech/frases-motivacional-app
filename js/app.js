@@ -4,8 +4,8 @@ const btnNovaFrase = document.getElementById('novaFrase')
 const fraseElement = document.getElementById('frase')
 
 function frasesRandom() {
-  const numberRandom = Math.floor(Math.random() * frasesMotivacionais.length)
-  fraseElement.textContent = frasesMotivacionais[numberRandom]
+  const numberRandom = Math.floor(Math.random() * frasesBiblicas.length)
+  fraseElement.textContent = frasesBiblicas[numberRandom]
 }
 
 function copiarTexto(texto) {

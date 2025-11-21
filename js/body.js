@@ -2,7 +2,7 @@ const bodyApp = `
     <div class="container">
       <div class="px-2 mb-4 rounded-3">
         <div class="container-fluid py-5">
-          <h1 class="display-5 fw-semibold text-center" style="color: #00A2AA;">Frases biblícas</h1>
+          <h1 class="display-5 fw-semibold text-center" style="color: #00A2AA;">Frases bíblicas</h1>
           <hr>
           <div class="card mb-3" style="width: 24rem; margin: auto; max-width: 100%;">
             <img src="./jesus.png" class="card-img-top" alt="...">

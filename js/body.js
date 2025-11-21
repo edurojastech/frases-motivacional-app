@@ -1,6 +1,6 @@
 const bodyApp = `
-    <div class="container py-4">
-      <div class="p-2 mb-4 rounded-3">
+    <div class="container">
+      <div class="px-2 mb-4 rounded-3">
         <div class="container-fluid py-5">
           <h1 class="display-5 fw-semibold text-center" style="color: #00A2AA;">Frases motivacionais</h1>
           <hr>
@@ -8,7 +8,7 @@ const bodyApp = `
             <img src="https://eduardorojas.com.br/imagens/fotoIA.png" class="card-img-top" alt="...">
             <div class="card-body">
               <h5 class="card-title">Frase do dia:</h5>
-              <p class="card-text mb-3" id="frase" style="height: 80px;"></p>
+              <p class="card-text mb-3" id="frase" style="height: 100px;"></p>
               <p class="card-text"><small class="text-body-secondary">By: Eduardo Rojas</small></p>
             </div>
             <div class="card-footer d-flex gap-2 justify-content-center">

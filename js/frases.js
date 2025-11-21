@@ -1,0 +1,22 @@
+const frasesMotivacionais = [
+  "Na programação e na vida, você não precisa saber tudo de uma vez; só precisa ter coragem para começar e consistência para evoluir linha por linha.",
+  "Assim como no treino, o código só melhora quando você repete, ajusta e insiste — a evolução é construída na constância.",
+  "Carreira é como um projeto grande: você não executa tudo em um dia, mas avança um commit por vez até transformar ideia em realidade.",
+  "Treinar o corpo e treinar a mente para programar têm algo em comum: ambos exigem disciplina, paciência e a capacidade de seguir mesmo quando a motivação falha.",
+  "Na jornada de um programador, assim como no fitness, você só vê resultados quando passa a fazer mesmo nos dias em que não sente vontade.",
+  "Seu futuro como profissional depende das pequenas escolhas de hoje: estudar por 30 minutos, treinar por 1 hora ou revisar aquele código que você está adiando.",
+  "Não existe atalho para crescer na carreira ou no shape: existe esforço diário, foco e o compromisso de não desistir quando fica difícil.",
+  "Programar é transformar lógica em impacto; treinar é transformar esforço em resultado — ambos te lembram que você sempre pode ser melhor do que ontem.",
+  "Grandes oportunidades aparecem para quem constrói base, pratica fundamentos e se prepara enquanto ninguém está vendo.",
+  "Seu shape, seu código e sua carreira têm um ponto em comum: todos são a consequência direta dos seus hábitos.",
+  "O programador que estuda todos os dias vence o que espera cair inspiração; o atleta que treina sempre vence o que depende de motivação.",
+  "A vida recompensa quem entende que evolução não vem do conforto, mas do esforço constante aplicado nas coisas que realmente importam.",
+  "Um projeto bem feito começa com clareza, um corpo bem treinado começa com disciplina e uma carreira sólida nasce da soma dos dois.",
+  "Quanto mais você evolui como pessoa, mais seus resultados aparecem como profissional — tudo começa de dentro para fora.",
+  "Consistência é a linguagem universal do sucesso: seja na academia, no VS Code ou na construção da sua própria versão melhorada.",
+  "A cada dia que você estuda, treina e se dedica à sua carreira, você se aproxima da vida que sempre quis viver.",
+  "Programar exige lógica, treinar exige força, e crescer na vida exige coragem para fazer o que precisa ser feito mesmo sem aplausos.",
+  "Seu código não melhora sozinho, seu shape não muda sem treino e sua carreira não avança sem atitude — tudo depende da sua ação diária.",
+  "A diferença entre quem conquista e quem só sonha está na capacidade de manter a disciplina quando o motivacional desaparece.",
+  "Você não precisa ser o melhor do mundo, só precisa ser melhor do que você era ontem — e isso já te coloca na direção do extraordinário."
+];
